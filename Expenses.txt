@@ -1,0 +1,26 @@
+ Pizza
+ 200.00offee
+ 0.00 Pizza
+ 200.00
+COFFEE
+ 300.00
+PHONE
+ 300.00
+EBOOK
+ 0.00
+ Lunch
+ 200.00
+roceries 
+ 0.00
+Lunch
+ 200.00
+Lunch
+ 200.00
+ Groceries
+ 500.00
+Lunch
+ 200.00
+ Groceries
+ 500.00
+Movies
+ 1000.00
